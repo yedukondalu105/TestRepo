@@ -18,6 +18,7 @@ public class AppTest
     public AppTest( String testName )
     {
         super( testName );
+        //HI this is for merging branch to master
     }
 
     /**
